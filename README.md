@@ -1,6 +1,9 @@
 # App_Atom
 Android App with Firestore
 
+##### Used Firestore Authentication to authenticate users and register new Users
+##### Built App on Android Studio(Java) 
+
 ### Main Page -->
 * Can select login or signUp
 * If user is already logged in, shows home page
