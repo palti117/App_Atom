@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MedApp</string>
+    <string name="hello">Welcome to App!</string>
+    <string name="sign">SignUp</string>
+    <string name="login">Login</string>
+    <string name="signup_heading">SignUp with Email</string>
+    <string name="login_heading">Login with Email</string>
+    <string name="example_email">example123@gmail.com</string>
+    <string name="pwd">password</string>
+    <string name="newuser">Donot have an account?</string>
+    <string name="exisuser">Already have an Account?</string>
+    <string name="logout">LogOut</string>
+</resources>

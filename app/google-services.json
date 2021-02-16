@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "739760567104",
+    "project_id": "login-app-ramya",
+    "storage_bucket": "login-app-ramya.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:739760567104:android:d8c263835e60dd844c40a5",
+        "android_client_info": {
+          "package_name": "com.example.login_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "739760567104-kmq3cqlpgakr2veotr7ujj9aokgoodfr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKP5j_75GAfHvXCPGF8yJwH_xjVFuun8M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "739760567104-kmq3cqlpgakr2veotr7ujj9aokgoodfr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:739760567104:android:b68b77bf5e4d73554c40a5",
+        "android_client_info": {
+          "package_name": "com.example.medapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "739760567104-kmq3cqlpgakr2veotr7ujj9aokgoodfr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKP5j_75GAfHvXCPGF8yJwH_xjVFuun8M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "739760567104-kmq3cqlpgakr2veotr7ujj9aokgoodfr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
